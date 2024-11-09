@@ -1,0 +1,24 @@
+/*
+        *
+       * *
+      *   *
+     *     *
+    *********
+     *     *
+      *   *
+       * *
+        *
+        
+Corrige los errores
+     (Son 3)
+
+*/
+
+@media-query (min-size: 769px) {
+  h1 {
+    font-size : 25px; 
+  }
+  .contenedor {
+    padding: 20px
+  }
+}
